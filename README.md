@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Professional Portfolio Website
 
 A minimalist, modern portfolio website built with HTML, CSS, and JavaScript. Features a clean design with smooth animations and interactive job experience cards.
@@ -127,3 +128,6 @@ Simply upload all files to your hosting provider and the website will work immed
 ## License
 
 This project is open source and available under the MIT License. Feel free to use and modify for your personal portfolio. 
+=======
+# about-syahdan
+>>>>>>> bce771c2f8ef5291b996113b69bd14133f99ea59
